@@ -1,0 +1,1 @@
+this is a basic sample program created to read content from a RSS feed and push it a local elasticsearch cluster node for indexing along with other bassic operations like get and search.
