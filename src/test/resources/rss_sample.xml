@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.css" type="text/css"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:extra="http://www.w3.org/1999/xhtml"
+    xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <channel rdf:about="http://www.biomedcentral.com/feeds/latestarticles/portal?portalId=9001&amp;quantity=&amp;format=rss&amp;version=">
+        <title>BioMed Central - Latest Articles</title>
+        <link>http://www.biomedcentral.com/</link>
+        <description>The latest research articles published by BioMed Central</description>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <items>
+            <rdf:Seq>
+                                <rdf:li rdf:resource="http://genomebiology.com/2015/16/1/66" />
+                                <rdf:li rdf:resource="http://www.biomedcentral.com/1471-2164/16/267" />
+                                <rdf:li rdf:resource="http://arthritis-research.com/content/17/1/94" />
+                                <rdf:li rdf:resource="http://www.biomedcentral.com/1471-2458/15/328" />
+                                <rdf:li rdf:resource="http://ccforum.com/content/19/1/137" />
+                                <rdf:li rdf:resource="http://ccforum.com/content/19/1/138" />
+                                <rdf:li rdf:resource="http://genomebiology.com/2015/16/1/71" />
+                                <rdf:li rdf:resource="http://www.archpublichealth.com/content/73/1/17" />
+                                <rdf:li rdf:resource="http://www.biomedcentral.com/1741-7015/13/71" />
+                                <rdf:li rdf:resource="http://www.jeatdisord.com/content/3/1/12" />
+                            </rdf:Seq>
+        </items>
+                 <extra:info rdf:parseType="Literal">
+            <html:div style="font:14px Verdana, Geneva, Arial, Helvetica, sans-serif" xmlns:html="http://www.w3.org/1999/xhtml">
+                <html:span style="font-weight:bold">
+                    This is an RSS newsfeed from BioMed Central
+                </html:span>
+                <html:br />
+                <html:span style="font-size: 12px;">
+                    It is intended to be used with an RSS reader. For more information about RSS newsfeeds from BioMed Central, visit
+                    <html:br />
+                    <html:a href="http://www.biomedcentral.com/info/about/rss/" style="color:#3333CC; font-size:12px;">
+                        http://www.biomedcentral.com/info/about/rss/
+                    </html:a>
+                    <html:br />
+                </html:span>
+            </html:div>
+        </extra:info>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </channel>
+        <item rdf:about="http://genomebiology.com/2015/16/1/66">
+        <title>Single-cell analysis of lung adenocarcinoma cell lines reveals diverse expression patterns of individual cells invoked by a molecular target drug treatment</title>
+        <description>Background:
+To understand the heterogeneous behaviors of individual cancer cells, it is essential to investigate gene expression levels as well as their divergence between different individual cells. Recent advances in next-generation sequencing-related technologies have enabled us to conduct a single-cell RNA-Seq analysis of a series of lung adenocarcinoma cell lines.
+Results:
+We analyze a total of 336 single-cell RNA-Seq libraries from seven cell lines. The results are highly robust regarding both average expression levels and the relative gene expression differences between individual cells. Gene expression diversity is characteristic depending on genes and pathways. Analyses of individual cells treated with the multi-tyrosine kinase inhibitor vandetanib reveal that, while the ribosomal genes and many other so-called house-keeping genes reduce their relative expression diversity during the drug treatment, the genes that are directly targeted by vandetanib, the EGFR and RET genes, remain constant. Rigid transcriptional control of these genes may not allow plastic changes of their expression with the drug treatment or during the cellular acquisition of drug resistance. Additionally, we find that the gene expression patterns of cancer-related genes are sometimes more diverse than expected based on the founder cells. Furthermore, we find that this diversity is occasionally latent in a normal state and initially becomes apparent after the drug treatment.
+Conclusions:
+Characteristic patterns in gene expression divergence, which would not be revealed by transcriptome analysis of bulk cells, may also play important roles when cells acquire drug resistance, perhaps by providing a cellular reservoir for gene expression programs.</description>
+        <link>http://genomebiology.com/2015/16/1/66</link>
+                <dc:creator>Ayako Suzuki</dc:creator>
+                <dc:creator>Koutatsu Matsushima</dc:creator>
+                <dc:creator>Hideki Makinoshima</dc:creator>
+                <dc:creator>Sumio Sugano</dc:creator>
+                <dc:creator>Takashi Kohno</dc:creator>
+                <dc:creator>Katsuya Tsuchihara</dc:creator>
+                <dc:creator>Yutaka Suzuki</dc:creator>
+                <dc:source>Genome Biology 2015, 16:66</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13059-015-0636-y</dc:identifier>
+                            <dc:title>Cancer therapy response</dc:title>
+                            <dc:description>An analysis of lung cancer cell lines gene expression in response to drug treatment reveals differential response on the single-cell level</dc:description>
+                <prism:require>/content/figures/s13059-015-0636-y-toc.gif</prism:require>
+                <prism:publicationName>Genome Biology</prism:publicationName>
+        <prism:issn>1465-6906</prism:issn>
+        <prism:volume>16</prism:volume>
+        <prism:startingPage>66</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://www.biomedcentral.com/1471-2164/16/267">
+        <title>Comparative genome analysis of Pediococcus damnosus LMG 28219, a strain well-adapted to the beer environment</title>
+        <description>Background:
+Pediococcus damnosus LMG 28219 is a lactic acid bacterium dominating the maturation phase of Flemish acid beer productions. It proved to be capable of growing in beer, thereby resisting this environment, which is unfavorable for microbial growth. The molecular mechanisms underlying its metabolic capabilities and niche adaptations were unknown up to now. In the present study, whole-genome sequencing and comparative genome analysis were used to investigate this strain&#8217;s mechanisms to reside in the beer niche, with special focus on not only stress and hop resistances but also folate biosynthesis and exopolysaccharide (EPS) production.
+Results:
+The draft genome sequence of P. damnosus LMG 28219 harbored 183 contigs, including an intact prophage region and several coding sequences involved in plasmid replication. The annotation of 2178 coding sequences revealed the presence of many transporters and transcriptional regulators and several genes involved in oxidative stress response, hop resistance, de novo folate biosynthesis, and EPS production. Comparative genome analysis of P. damnosus LMG 28219 with Pediococcus claussenii ATCC BAA-344T (beer origin) and Pediococcus pentosaceus ATCC 25745 (plant origin) revealed that various hop resistance genes and genes involved in de novo folate biosynthesis were unique to the strains isolated from beer. This contrasted with the genes related to osmotic stress responses, which were shared between the strains compared. Furthermore, transcriptional regulators were enriched in the genomes of bacteria capable of growth in beer, suggesting that those cause rapid up- or down-regulation of gene expression.
+Conclusions:
+Genome sequence analysis of P. damnosus LMG 28219 provided insights into the underlying mechanisms of its adaptation to the beer niche. The results presented will enable analysis of the transcriptome and proteome of P. damnosus LMG 28219, which will result in additional knowledge on its metabolic activities.</description>
+        <link>http://www.biomedcentral.com/1471-2164/16/267</link>
+                <dc:creator>Isabel Snauwaert</dc:creator>
+                <dc:creator>Pieter Stragier</dc:creator>
+                <dc:creator>Luc De Vuyst</dc:creator>
+                <dc:creator>Peter Vandamme</dc:creator>
+                <dc:source>BMC Genomics 2015, 16:267</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s12864-015-1438-z</dc:identifier>
+                                <prism:require>/content/figures/s12864-015-1438-z-toc.gif</prism:require>
+                <prism:publicationName>BMC Genomics</prism:publicationName>
+        <prism:issn>1471-2164</prism:issn>
+        <prism:volume>16</prism:volume>
+        <prism:startingPage>267</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://arthritis-research.com/content/17/1/94">
+        <title>The cellular signature of urinary immune cells in Lupus nephritis: new insights into potential biomarkers</title>
+        <description>IntroductionUrinary T cells represent a reliable noninvasive biomarker for proliferative Lupus nephritis (LN). Little is known about the presence of T cell subsets, B cells and macrophages in the urine although they may further improve the validity of urinary cellular biomarkers for LN.
+Methods:
+We analyzed contemporaneous blood and urine samples of patients with active LN (n&#8201;=&#8201;19), other Systemic Lupus Erythematosus (SLE) patients (n&#8201;=&#8201;79) and urine samples of patients with diabetic nephropathy (DN; n&#8201;=&#8201;14) and anti-neutrophil cytoplasmatic antibody (ANCA) associated vasculitis (AAV; n&#8201;=&#8201;11) by flow cytometry.
+Results:
+Numbers of urinary T cells, B cells and macrophages correlated with disease activity and were significantly higher in the active LN group. Urinary T cells showed excellent distinction of patients with active LN, CD8+ T cells (AUC of ROC&#8201;=&#8201;1.000) and CD4+ T cells (AUC&#8201;=&#8201;0.9969) alike. CD19+ B cells (AUC&#8201;=&#8201;0.7823) and CD14+ macrophages (AUC&#8201;=&#8201;0.9066), as well as the clinical standard proteinuria (AUC&#8201;=&#8201;0.9201), failed to reach these high standards. Patients with DN or AAV also showed increased urinary cell counts, although the CD4/CD8-ratio was significantly lower in SLE compared to in DN (p&#8201;=&#8201;0.0006). Urinary CD4+ T cells of active LN patients proved to be mainly of effector memory phenotype and expressed significantly more CD40L and ki67 than corresponding blood cells. Urinary Treg counts correlated with disease activity.
+Conclusions:
+Despite of detectable urinary cell counts for B cells and macrophages, T cells remain the best urinary cellular biomarker for LN. A low CD4/CD8-ratio seems to be characteristic for LN.</description>
+        <link>http://arthritis-research.com/content/17/1/94</link>
+                <dc:creator>Katharina Kopetschke</dc:creator>
+                <dc:creator>Jan Klocke</dc:creator>
+                <dc:creator>Anna-Sophie Grießbach</dc:creator>
+                <dc:creator>Jens Y Humrich</dc:creator>
+                <dc:creator>Robert Biesen</dc:creator>
+                <dc:creator>Duska Dragun</dc:creator>
+                <dc:creator>Gerd-Rüdiger Burmester</dc:creator>
+                <dc:creator>Philipp Enghard</dc:creator>
+                <dc:creator>Gabriela Riemekasten</dc:creator>
+                <dc:source>Arthritis Research &amp; Therapy 2015, 17:94</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13075-015-0600-y</dc:identifier>
+                                <prism:require>/content/figures/s13075-015-0600-y-toc.gif</prism:require>
+                <prism:publicationName>Arthritis Research &amp; Therapy</prism:publicationName>
+        <prism:issn>1478-6354</prism:issn>
+        <prism:volume>17</prism:volume>
+        <prism:startingPage>94</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://www.biomedcentral.com/1471-2458/15/328">
+        <title>Noise exposure and hypertension: investigation of a silent relationship</title>
+        <description>Background:
+Noise is an important occupational hazard worldwide and hypertension a well-known risk factor for cardiovascular disease, which is currently the greatest cause of disability retirement worldwide. The association between noise exposure and auditory effects is well documented in the biomedical literature, but the same is not true about exposure to different levels of noise and extra-auditory effects. It has been shown that noise exposure levels to be considered for non-auditory effects may not be the same as in the case of auditory effects. The frequent presence of noise in workplace environments, the high prevalence of hypertension worldwide, the biological plausibility of the association between noise exposure and high blood pressure and the need for more studies investigating the non-auditory effects of exposures to less than 85&#160;dB(A), were the reasons that led us to develop this study. We aimed at investigating the hypothesis that exposure to different levels of noise is associated with hypertension.
+Methods:
+We used a cross-sectional design to study the association between occupational noise exposure (&#8804;75, 75&#8211;85, and&#8201;&#8805;&#8201;85&#160;dB(A)) and hypertension (use of anti-hypertensive medication and/or blood pressure of &#8805;140/90&#160;mmHg) in 1,729 petrochemical workers at Rio de Janeiro, Brazil. Data were collected from obligatory annual health evaluation records and from environmental measurements of noise and heat levels. We used logistical regression analysis to study the association while controlling for key confounding variables, such as smoking and body mass index.
+Results:
+Using the &#8804;75&#160;dB(A) as reference category, noise exposure was independently associated to hypertension both at the 75&#8211;85&#160;dB(A) (OR 1.56; 95%CI 1.13&#8211;2.17) and the &#8805;85&#160;dB(A) levels (OR 1.58; 95%CI 1.10&#8211;2.26). Age, gender and body mass index were also independently associated to high blood pressure.
+Conclusion:
+Herein, we were able to demonstrate that noise exposure is independently associated to hypertension. Our results are consistent with other studies that used similar methodology and enabled us to verify the occurrence of non-auditory effects in workers exposed to noise levels considered safe for auditory effects.</description>
+        <link>http://www.biomedcentral.com/1471-2458/15/328</link>
+                <dc:creator>Tatiana de Souza</dc:creator>
+                <dc:creator>André Périssé</dc:creator>
+                <dc:creator>Marisa Moura</dc:creator>
+                <dc:source>BMC Public Health 2015, 15:328</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s12889-015-1671-z</dc:identifier>
+                                <prism:require>/content/figures/s12889-015-1671-z-toc.gif</prism:require>
+                <prism:publicationName>BMC Public Health</prism:publicationName>
+        <prism:issn>1471-2458</prism:issn>
+        <prism:volume>15</prism:volume>
+        <prism:startingPage>328</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://ccforum.com/content/19/1/137">
+        <title>Inhaled nitric oxide therapy and risk of renal dysfunction: a systematic review and meta-analysis of randomized trials</title>
+        <description>IntroductionInhaled nitric oxide (iNO) is an important therapy for acute respiratory distress syndrome (ARDS), pulmonary hypertension and pediatric hypoxemic respiratory failure. Safety concerns regarding iNO and renal dysfunction have been reported; however, there are currently no systematic reviews on this issue. Our objective was to evaluate published randomized controlled trials (RCTs) to ascertain the risk of renal dysfunction associated with iNO therapy in patients with and without ARDS.
+Methods:
+A systematic review of databases was performed to identify RCTs which compared iNO with controls up to September 2014. Effect estimates for risk ratio (RR) of acute kidney injury (AKI) were pooled using a random-effects model.
+Results:
+Ten RCTs involving 1363 participants were included. Inhaled nitric oxide significantly increased the risk of AKI compared with controls (RR, 1.4, 95%CI, 1.06 to 1.83, p&#8201;=&#8201;0.02). In the stratified analysis, a high cumulative-dose of iNO significantly increased the risk of AKI (RR, 1.52, 95%CI, 1.14 to 2.02, p&#8201;=&#8201;0.004), whereas medium and low cumulative-doses did not (RR, 0.64, 95%CI, 0.23 to 1.81 and RR, 0.56, 95%CI, 0.11 to 2.86 respectively). In subgroup analysis by study population, an increased risk of AKI was observed in patients with ARDS (RR, 1.55, 95%CI, 1.15 to 2.09, p&#8201;=&#8201;0.005) but not in those without (RR, 0.90, 95%CI, 0.49 to 1.67, p&#8201;=&#8201;0.75).
+Conclusions:
+The available data show that iNO therapy may increase the risk of renal dysfunction, especially with prolonged use and in patients with ARDS. The risk in pediatric population is unknown owing to limited data. We suggest monitoring renal function during iNO therapy, and that future trials of iNO should evaluate renal safety.</description>
+        <link>http://ccforum.com/content/19/1/137</link>
+                <dc:creator>Sheng-Yuan Ruan</dc:creator>
+                <dc:creator>Tao-Min Huang</dc:creator>
+                <dc:creator>Hon-Yen Wu</dc:creator>
+                <dc:creator>Huey-Dong Wu</dc:creator>
+                <dc:creator>Chong-Jen Yu</dc:creator>
+                <dc:creator>Mei-Shu Lai</dc:creator>
+                <dc:source>Critical Care 2015, 19:137</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13054-015-0880-2</dc:identifier>
+                                <prism:require>/content/figures/s13054-015-0880-2-toc.gif</prism:require>
+                <prism:publicationName>Critical Care</prism:publicationName>
+        <prism:issn>1364-8535</prism:issn>
+        <prism:volume>19</prism:volume>
+        <prism:startingPage>137</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>XML</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://ccforum.com/content/19/1/138">
+        <title>Tryptase is involved in the development of early ventilator-induced pulmonary fibrosis in sepsis-induced lung injury</title>
+        <description>IntroductionMost patients with sepsis and acute lung injury require mechanical ventilation to improve oxygenation and facilitate organ repair. Mast cells are important in response to infection and resolution of tissue injury. Since tryptase secreted from mast cells has been associated with tissue fibrosis, we hypothesized that tryptase would be involved in the early development of ventilator-induced pulmonary fibrosis in a clinically relevant model of sepsis-induced lung injury.
+Methods:
+Prospective, randomized, controlled animal study using Sprague&#8211;Dawley rats. Sepsis was induced by cecal ligation and perforation. Animals were randomized to spontaneous breathing or two ventilatory strategies for 4&#160;h: protective ventilation with tidal volume (VT)&#8201;=&#8201;6&#160;ml/kg plus 10 cmH2O positive end-expiratory pressure (PEEP) or injurious ventilation with VT&#8201;=&#8201;20&#160;ml/kg plus 2 cmH2O PEEP. Healthy, non-ventilated animals served as non-septic controls. We studied the following end-points: histology, serum cytokine levels, hydroxyproline content, tryptase and proteinase-activated receptor-2 (PAR-2) protein level in lung homogenates, and tryptase and PAR-2 immunohistochemical localization in the lungs.
+Results:
+All septic animals developed acute lung injury. Animals ventilated with high-VT had a significant increase of pulmonary fibrosis, hydroxyproline content, tryptase and PAR-2 protein levels compared to septic controls (p&#8201;&lt;&#8201;0.0001). However, protective ventilation attenuated sepsis-induced lung injury and decreased lung tryptase and PAR-2 protein levels. Immunohistochemical staining confirmed the presence of tryptase and PAR-2 in the lungs.
+Conclusions:
+Mechanical ventilation modified tryptase and PAR-2 in injured lungs. Increased levels of these proteins were associated with development of sepsis and ventilator-induced pulmonary fibrosis early in the course of sepsis-induced lung injury.</description>
+        <link>http://ccforum.com/content/19/1/138</link>
+                <dc:creator>Jesús Villar</dc:creator>
+                <dc:creator>Nuria E Cabrera-Benítez</dc:creator>
+                <dc:creator>Francisco Valladares</dc:creator>
+                <dc:creator>Sonia García-Hernández</dc:creator>
+                <dc:creator>Ángela Ramos-Nuez</dc:creator>
+                <dc:creator>José Martín-Barrasa</dc:creator>
+                <dc:creator>Mercedes Muros</dc:creator>
+                <dc:creator>Robert M Kacmarek</dc:creator>
+                <dc:creator>Arthur S Slutsky</dc:creator>
+                <dc:source>Critical Care 2015, 19:138</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13054-015-0878-9</dc:identifier>
+                                <prism:require>/content/figures/s13054-015-0878-9-toc.gif</prism:require>
+                <prism:publicationName>Critical Care</prism:publicationName>
+        <prism:issn>1364-8535</prism:issn>
+        <prism:volume>19</prism:volume>
+        <prism:startingPage>138</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://genomebiology.com/2015/16/1/71">
+        <title>The Fasciola hepatica genome: gene duplication and polymorphism reveals adaptation to the host environment and the capacity for rapid evolution</title>
+        <description>Background:
+The liver fluke Fasciola hepatica is a major pathogen of livestock worldwide, causing huge economic losses to agriculture, as well as 2.4 million human infections annually.
+Results:
+Here we provide a draft genome for F. hepatica, which we find to be amongst the largest known pathogen genomes at 1.3Gb. This size cannot be explained by genome duplication or expansion of a single repeat element, and remains a paradox given the burden it may impose on egg production necessary to transmit infection. Despite the potential for inbreeding by facultative self-fertilization, substantial levels of polymorphism were found, which highlights the evolutionary potential for rapid adaptation to changes in host availability, climate change or to drug or vaccine interventions. Non-synonymous polymorphisms were elevated in genes shared with parasitic taxa, which may be particularly relevant for the ability of the parasite to adapt to a broad range of definitive mammalian and intermediate molluscan hosts. Large-scale transcriptional changes, particularly within expanded protease and tubulin families, were found as the parasite migrated from the gut, across the peritoneum and through the liver to mature in the bile ducts. We identify novel members of anti-oxidant and detoxification pathways and defined their differential expression through infection, which may explain the stage-specific efficacy of different anthelmintic drugs.
+Conclusions:
+The genome analysis described here provides new insights into the evolution of this important pathogen, its adaptation to the host environment and external selection pressures. This analysis also provides a platform for research into novel drugs and vaccines.</description>
+        <link>http://genomebiology.com/2015/16/1/71</link>
+                <dc:creator>Krystyna Cwiklinski</dc:creator>
+                <dc:creator>John Dalton</dc:creator>
+                <dc:creator>Philippe J Dufresne</dc:creator>
+                <dc:creator>James La Course</dc:creator>
+                <dc:creator>Diana Williams</dc:creator>
+                <dc:creator>Jane Hodgkinson</dc:creator>
+                <dc:creator>Steve Paterson</dc:creator>
+                <dc:source>Genome Biology 2015, 16:71</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13059-015-0632-2</dc:identifier>
+                            <dc:title>Fasciola hepatica genome</dc:title>
+                            <dc:description>The genome of the liver fluke Fasciola hepatica is among the largest known for any pathogen, with a size of 1.3Gb</dc:description>
+                <prism:require>/content/figures/s13059-015-0632-2-toc.gif</prism:require>
+                <prism:publicationName>Genome Biology</prism:publicationName>
+        <prism:issn>1465-6906</prism:issn>
+        <prism:volume>16</prism:volume>
+        <prism:startingPage>71</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://www.archpublichealth.com/content/73/1/17">
+        <title>Life expectancy ranking of Canadians among the populations in selected OECD countries and its disparities among British Columbians</title>
+        <description>Background:
+Canada is among the world&#8217;s leading nations with the longest life expectancy at birth (LE0), and British Columbia (BC) ranks top among Canadian provinces and territories for LE0 in both men and women. This paper examined recent data as well as projected trends in LE0 of Canadian men and women and explored the geographic and socioeconomic disparities in LE0 specific to BC.
+Methods:
+Using retrospective data on LE0 and age-standardized mortality rates, Canada was compared to 11 other Organization for Economic Cooperation and Development (OECD) countries with the longest LE0. Projections were made using linear regression modelling to the year of 2023. The association between regional LE0 and regional socioeconomic status (SES) was examined for the province of BC using its Local Health Area (LHA) level data on SES and LE0.
+Results:
+In 2009, Canadian men (LE0: 78.7 years) and women (LE0: 83.3 years) ranked 7th and 8th, respectively among the 12 OECD nations under comparison. Significantly smaller annual gains in LE0 contributed to the losing of their top ranks in LE0 for Canadian men and women in recent years, which was projected to sustain. Higher mortality risks, particularly for lung cancer and external causes of mortality among women was found for Canada compared to leading countries on these measures. Geographic variations were evident in LE0 in BC, and there was a significant gap of 3.6 years in the average LE0 for BC&#8217;s LHAs in the lowest SES tertile (78.6 years, 95% CI: 78.0-79.3) compared to those in the highest SES tertile (82.2 years, 95% CI: 81.6-82.8).
+Conclusions:
+Canada continues to remain one of the OECD countries with longest living population. With the highest LE0 in the country, British Columbia has an opportunity to address socio-economic disparities in LE0.</description>
+        <link>http://www.archpublichealth.com/content/73/1/17</link>
+                <dc:creator>Li Zhang</dc:creator>
+                <dc:creator>Drona Rasali</dc:creator>
+                <dc:source>Archives of Public Health 2015, 73:17</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s13690-015-0065-0</dc:identifier>
+                                <prism:require>/content/figures/s13690-015-0065-0-toc.gif</prism:require>
+                <prism:publicationName>Archives of Public Health</prism:publicationName>
+        <prism:issn>2049-3258</prism:issn>
+        <prism:volume>73</prism:volume>
+        <prism:startingPage>17</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://www.biomedcentral.com/1741-7015/13/71">
+        <title>Early goal-directed therapy in the management of severe sepsis or septic shock in adults: a meta-analysis of randomized controlled trials</title>
+        <description>Background:
+The Surviving Sepsis Campaign guidelines have proposed early goal-directed therapy (EGDT) as a key strategy to decrease mortality among patients with severe sepsis or septic shock. However, its effectiveness is uncertain.
+Methods:
+We searched for relevant studies in Medline, Embase, the Cochrane Library, Google Scholar, and a Chinese database (SinoMed), as well as relevant references from January 1966 to October 2014. We performed a systematic review and meta-analysis of all eligible randomized controlled trials (RCTs) of EGDT for patients with severe sepsis or septic shock. The primary outcome was mortality; secondary outcomes were length of ICU and in-hospital stay, mechanical ventilation support, vasopressor and inotropic agents support, fluid administration, and red cell transfusion. We pooled relative risks (RRs) or weighted mean differences (MDs) with 95% confidence intervals (95% CI) using Review Manager 5.2.
+Results:
+We included 10 RCTs from 2001 to 2014 involving 4,157 patients. Pooled analyses of all studies showed no significant difference in mortality between the EGDT and the control group (RR 0.91, 95%CI: 0.79 to 1.04, P&#8201;=&#8201;0.17), with substantial heterogeneity (&#967;2&#8201;=&#8201;23.65, I                    
+                   2&#8201;=&#8201;58%). In the subgroup analysis, standard EGDT, but not modified EGDT, was associated with lower mortality rate in comparison with the usual care group (RR 0.84, 95%CI: 0.72 to 0.98, P&#8201;=&#8201;0.03). However, EGDT was associated with a higher mortality rate in comparison with the early lactate clearance group (RR 1.52, 95%CI: 1.06 to 2.18, P&#8201;=&#8201;0.02). In the first 6&#160;h, compared with usual care, patients in EGDT received more inotropic agents (P&#8201;=&#8201;0.04), fluid administration (P&#8201;=&#8201;0.05), and red cell transfusion (P&#8201;&lt;&#8201;0.01). There were no significant differences in length of ICU stay (P&#8201;=&#8201;0.73) or in-hospital stay (P&#8201;=&#8201;0.57), ventilation rate (P&#8201;=&#8201;0.53), and vasopressor support (P&#8201;=&#8201;0.63).
+Conclusions:
+EGDT was not associated with a survival benefit among patients with severe sepsis or septic shock. Instead, EGDT was associated with a higher mortality rate in comparison to the early lactate clearance group. Further high-quality RCTs comparing EGDT with early lactate clearance are desirable.</description>
+        <link>http://www.biomedcentral.com/1741-7015/13/71</link>
+                <dc:creator>Ling Zhang</dc:creator>
+                <dc:creator>Guijun Zhu</dc:creator>
+                <dc:creator>Li Han</dc:creator>
+                <dc:creator>Ping Fu</dc:creator>
+                <dc:source>BMC Medicine 2015, 13:71</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s12916-015-0312-9</dc:identifier>
+                            <dc:title>EGDT not linked to sepsis survival benefit</dc:title>
+                            <dc:description>In a meta-analysis, early goal-directed therapy (EGDT) for septic shock is not associated with survival benefit, and is linked to higher mortality rates than early lactate clearance, highlighting the need for further trials comparing these therapies.</dc:description>
+                <prism:require>/content/figures/s12916-015-0312-9-toc.gif</prism:require>
+                <prism:publicationName>BMC Medicine</prism:publicationName>
+        <prism:issn>1741-7015</prism:issn>
+        <prism:volume>13</prism:volume>
+        <prism:startingPage>71</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <item rdf:about="http://www.jeatdisord.com/content/3/1/12">
+        <title>Bulimia Nervosa &#8211; medical complications</title>
+        <description>As with anorexia nervosa, there are many medical complications associated with bulimia nervosa. In bulimia nervosa, these complications are a direct result of both the mode and the frequency of purging behaviours. For the purposes of this article, we will review in detail the many complications of the two major modes of purging, namely, self-induced vomiting and laxative abuse; these two account for more than 90% of purging behaviours in bulimia nervosa. Some of these complications are potentially extremely dangerous and need to be well understood to effectively treat patients with bulimia nervosa. Other methods of purging, such as diuretic abuse, are much less frequently utilized and will only be mentioned briefly. In a subsequent article, the treatments of these medical complications will be presented.</description>
+        <link>http://www.jeatdisord.com/content/3/1/12</link>
+                <dc:creator>Philip S Mehler</dc:creator>
+                <dc:creator>Melanie Rylander</dc:creator>
+                <dc:source>Journal of Eating Disorders 2015, 3:12</dc:source>
+        <dc:date>2015-04-03T00:00:00Z</dc:date>
+        <dc:identifier>10.1186/s40337-015-0044-4</dc:identifier>
+                                <prism:require>/content/figures/s40337-015-0044-4-toc.gif</prism:require>
+                <prism:publicationName>Journal of Eating Disorders</prism:publicationName>
+        <prism:issn>2050-2974</prism:issn>
+        <prism:volume>3</prism:volume>
+        <prism:startingPage>12</prism:startingPage>
+        <prism:publicationDate>2015-04-03T00:00:00Z</prism:publicationDate>
+                <prism:versionidentifier>PDF</prism:versionidentifier>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+    </item>
+        <cc:License rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    </cc:License>
+</rdf:RDF>
