@@ -30,5 +30,6 @@ public class ArticleTest {
         article.setContent("Dummy content for the article");
         article.setSource("Biomed");
         assertEquals(expectedJson, article.toJson());
+        System.out.println(article.toJson());
     }
 }

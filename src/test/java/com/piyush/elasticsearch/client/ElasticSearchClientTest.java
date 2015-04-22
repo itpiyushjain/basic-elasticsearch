@@ -48,7 +48,7 @@ public class ElasticSearchClientTest {
     public void testSearchArticle() {
         try{
             ElasticSearchClient articleSearchClient = new ElasticSearchClient(host, port, clusterName, indexName);
-            List<Article> articles = articleSearchClient.searchArticle("development");
+            List<Article> articles = articleSearchClient.searchArticle("Sample");
             System.out.println(articles.size() + " articles found");
 
         }catch (Exception e){
@@ -63,7 +63,7 @@ public class ElasticSearchClientTest {
         List<String> authors = new ArrayList<String>();
         authors.add("Author 1");
         authors.add("Author 2");
-        Article article = new Article("art" + System.currentTimeMillis(),
+        Article article = new Article("art123456"  ,
                                       "Sample Title on " + new Date(),
                                        authors);
         article.setContent("Dummy content for the article generated on "
